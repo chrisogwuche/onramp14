@@ -1,0 +1,19 @@
+{
+  "name": "onramp14",
+  "version": "1.0.0",
+  "description": "how to link to github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisogwuche/onramp14.git"
+  },
+  "author": "chris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisogwuche/onramp14/issues"
+  },
+  "homepage": "https://github.com/chrisogwuche/onramp14#readme"
+}
